@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_primary">#6A0DAD</color>
+    <color name="purple_light">#9C4DCC</color>
+    <color name="pink_accent">#F5E9E2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_text">#888888</color>
+    <color name="bubble_sent">#EDE7F6</color>
+    <color name="bubble_received">#F5F5F5</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
 </resources>

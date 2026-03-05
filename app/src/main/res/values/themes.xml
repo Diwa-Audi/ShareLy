@@ -5,5 +5,10 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Sharely" parent="Base.Theme.Sharely" />
+    <style name="Theme.Sharely" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/jersey10</item>
+        <item name="fontFamily">@font/jersey10</item>
+        <!-- your other theme items -->
+    </style>
+<!--    <style name="Theme.Sharely" parent="Base.Theme.Sharely" />-->
 </resources>
